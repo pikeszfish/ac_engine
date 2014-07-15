@@ -7,7 +7,9 @@
 
 ##USAGE
 gcc -o ac ac.h
+
 ./ac <FILE>    ##默认FILE为LICENSE
+
 pattern在代码中修改，真是着急。。。
 
 
