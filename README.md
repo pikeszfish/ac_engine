@@ -6,7 +6,7 @@
 [AC自动机算法详解] (http://www.cppblog.com/mythit/archive/2009/04/21/80633.html)
 
 ##USAGE
-gcc -o ac ac.h
+gcc -o ac ac.c
 
 ./ac <FILE>    ##默认FILE为LICENSE
 
